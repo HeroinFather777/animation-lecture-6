@@ -15,8 +15,8 @@ body{
   height: 629px;
   position: absolute;
   background: url(sprites/runde.png);
-  top:50%;
-  left:50%;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, 50%);
   animation: char 0.9 steps(8) infinite, movechars 2s linear infinite;
 }
