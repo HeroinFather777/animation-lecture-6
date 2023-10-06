@@ -19,3 +19,22 @@ body{
   transform: translate(-50%, 50%);
   animation: char 0.9 steps(8) infinite, movechars 2s linear infinite;
 }
+
+@keyframes dinos{
+    from{
+        background-position: 0;
+    }
+
+    to{
+        background-position: 5456px;
+    }
+}
+
+@keyframes movechars{
+    0%{
+        left: 0;
+    }
+    100%{
+        left: 100%;
+    }
+}
