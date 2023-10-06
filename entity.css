@@ -13,6 +13,7 @@ body{
 .char{
   width: 591px;
   height: 629px;
+  position: absolute;
   background: url(sprites/runde.png);
   top:50%;
   left:50%;
