@@ -13,7 +13,7 @@ body{
 .char{
   width: 591px;
   height: 629px;
-  background: url(sprites/runde.png)
+  background: url(runde.png)
   top:50%;
   left:50%;
   transform: translate(-50%, 50%);
